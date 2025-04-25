@@ -2,29 +2,29 @@
   "rules": [
     {
       "icon": "1.circle.fill",
-      "text": "Выберите до 3 фруктов в разделе 'Заказ'"
+      "text": "Select up to 3 fruits in the 'Order' section"
     },
     {
       "icon": "qrcode",
-      "text": "Нажмите 'Смешать' и приложите ваш QR-код к валидатору"
+      "text": "Tap 'Mix' and scan your QR code at the validator"
     },
     {
       "icon": "heart.fill",
-      "text": "После получения заказа покажи qr на главном экране чтобы накопить бонусы"
+      "text": "After receiving your order, show the QR code on the main screen to collect bonus points"
     }
   ],
   "bonuses": [
     {
       "icon": "circle.fill",
-      "text": "Бонусы можно начислять за каждый заказ"
+      "text": "Bonus points are awarded for every order"
     },
     {
       "icon": "person.2.fill",
-      "text": "Скоро - 10% бонус за приглашенного друга"
+      "text": "Coming soon - 10% bonus for invited friends"
     },
     {
       "icon": "calendar",
-      "text": "Скоро - Специальные сезонные предложения"
+      "text": "Coming soon - Special seasonal offers"
     }
   ],
   "contacts": [
@@ -33,6 +33,5 @@
       "value": "juicyjack@bar.com",
       "icon": "envelope.fill"
     }
-
   ]
 }
